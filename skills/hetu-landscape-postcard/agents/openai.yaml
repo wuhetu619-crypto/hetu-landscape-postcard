@@ -1,0 +1,4 @@
+interface:
+  display_name: "河图·撕纸风景明信片"
+  short_description: "把风景照片转成暖纸底、撕纸拼贴与同景版画结合的复古明信片"
+  default_prompt: "请用 $hetu-landscape-postcard，把我上传的风景照片制作成撕纸拼贴与同景版画结合的复古明信片。"

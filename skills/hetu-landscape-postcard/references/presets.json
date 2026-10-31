@@ -1,0 +1,85 @@
+{
+  "version": "2.0.0",
+  "notes": "Design starting points, not measured values or API parameters. Accent must fit the actual source photo.",
+  "default": {
+    "aspect": "3:4",
+    "balance": "balanced",
+    "paper": "warm-oat",
+    "caption": "short-en",
+    "mood": "quiet"
+  },
+  "layouts": [
+    "diagonal-reveal",
+    "vertical-rift",
+    "path-depth",
+    "valley-fan",
+    "ripple-band",
+    "horizon-breath"
+  ],
+  "presets": [
+    {
+      "id": "forest-stream",
+      "layout": "path-depth",
+      "print_process": "rubbing",
+      "palette_family": "moss",
+      "reference_id": "01",
+      "derived": false
+    },
+    {
+      "id": "urban-eaves",
+      "layout": "vertical-rift",
+      "print_process": "dry-brush",
+      "palette_family": "mustard",
+      "reference_id": "02",
+      "derived": false
+    },
+    {
+      "id": "village-autumn",
+      "layout": "path-depth",
+      "print_process": "rubbing",
+      "palette_family": "ochre",
+      "reference_id": "03",
+      "derived": false
+    },
+    {
+      "id": "valley-fields",
+      "layout": "valley-fan",
+      "print_process": "woodcut",
+      "palette_family": "olive",
+      "reference_id": "04",
+      "derived": false
+    },
+    {
+      "id": "quiet-water",
+      "layout": "ripple-band",
+      "print_process": "woodcut",
+      "palette_family": "teal",
+      "reference_id": "05",
+      "derived": false
+    },
+    {
+      "id": "harbor-etching",
+      "layout": "vertical-rift",
+      "print_process": "etching",
+      "palette_family": "indigo",
+      "reference_id": "06",
+      "derived": false
+    },
+    {
+      "id": "winter-still",
+      "layout": "horizon-breath",
+      "print_process": "rubbing",
+      "palette_family": "blue-gray",
+      "reference_id": null,
+      "derived": true
+    },
+    {
+      "id": "desert-earth",
+      "layout": "diagonal-reveal",
+      "print_process": "dry-brush",
+      "palette_family": "earth",
+      "reference_id": null,
+      "derived": true
+    }
+  ]
+}

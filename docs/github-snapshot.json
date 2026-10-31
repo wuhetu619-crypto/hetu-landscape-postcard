@@ -1,0 +1,59 @@
+{
+  "verified_on": "2026-10-31",
+  "timezone": "Asia/Shanghai",
+  "repos": [
+    {
+      "repo": "JimLiu/baoyu-design",
+      "stars": 5516,
+      "pushed_at": "2026-10-31T03:35:40Z",
+      "license": "MIT"
+    },
+    {
+      "repo": "JimLiu/baoyu-skills",
+      "stars": 27092,
+      "pushed_at": "2026-09-10T15:13:43Z",
+      "license": "MIT"
+    },
+    {
+      "repo": "Whiplashzeb/photo-to-zine-postcard",
+      "stars": 266,
+      "pushed_at": "2026-08-07T11:39:48Z",
+      "license": "MIT"
+    },
+    {
+      "repo": "kaijie-czyh/pocket-postcard-skill",
+      "stars": 0,
+      "pushed_at": "2026-08-04T09:07:20Z",
+      "license": "MIT"
+    }
+  ],
+  "design_commits": [
+    {
+      "sha": "a977d87d18196be72802813b278d0d6fccdf46fd",
+      "date": "2026-10-31T03:25:24Z",
+      "message": "feat: comments sent to the agent show as cards in the DeepSeek Harness chat"
+    },
+    {
+      "sha": "36ab3d08a0f2e1bc5e14a10d21c5183d1b00132d",
+      "date": "2026-10-31T01:00:34Z",
+      "message": "feat: DeepSeek Harness plugins for the four editors"
+    }
+  ],
+  "cover_commits": [
+    {
+      "sha": "b0ac5233ccc289fefabe4d5b7946bce14e4f9f26",
+      "date": "2026-06-13T04:56:34Z",
+      "message": "docs(image-generation): document Cursor GenerateImage backend"
+    },
+    {
+      "sha": "8838161729d55804fd55bcd57229dadbd0f73579",
+      "date": "2026-05-25T05:18:32Z",
+      "message": "docs(baoyu-cover-image): redirect codex-imagegen invocation through baoyu-image-gen --provider codex-cli"
+    },
+    {
+      "sha": "c3cbce9ce3ee633c0f8ace57d147a5c90748372f",
+      "date": "2026-05-24T23:35:05Z",
+      "message": "feat\\!: rename baoyu-imagine→baoyu-image-gen, baoyu-image-cards→baoyu-xhs-images (v2.0.0)"
+    }
+  ]
+}
